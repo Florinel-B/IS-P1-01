@@ -1,0 +1,269 @@
+Copy
+User Guide
+Formatting Elements
+Change Font
+To change font face, size, and color of view elements:
+Select view elements in diagram.
+Show 
+Font Dialog
+ by pressing 
+Ctrl+Shift+F
+ or selecting 
+Format | Font...
+ in Menu Bar or Context Menu.
+Select font face, size or color and press 
+OK
+ button.
+Font Dialog
+You can also use 
+Style Editor
+ to change Font face, size, and color.
+Change Line Color
+To change line color of view elements:
+Select view elements in diagram.
+Show 
+Color Dialog
+ for line color by pressing 
+Ctrl+Shift+L
+ or selecting 
+Format | Line Color...
+ in Menu Bar or Context Menu.
+Select line color and press 
+OK
+ button.
+Color Dialog
+You can also use 
+Style Editor
+ to change line color.
+Change Fill Color
+To change fill color of view elements:
+Select view elements in diagram.
+Show 
+Color Dialog
+ for fill color by pressing 
+Ctrl+Shift+I
+ or selecting 
+Format | Fill Color...
+ in Menu Bar or Context Menu.
+Select fill color and press 
+OK
+ button.
+You can also use 
+Style Editor
+ to change fill color.
+Change Line Style
+To change line style of view elements:
+Select view elements in diagram.
+Select one of line styles.
+Rectilinear - Press 
+Ctrl+L
+ or select 
+Format | Line Style | Rectilinear
+ in Menu Bar or Context Menu.
+Oblique - Press 
+Ctrl+B
+ or select 
+Format | Line Style | Oblique
+ in Menu Bar or Context Menu.
+RoundRect - Press 
+Ctrl+Alt+L
+ or select 
+Format | Line Style | RoundRect
+ in Menu Bar or Context Menu.
+Curve - Press 
+Ctrl+Alt+B
+ or select 
+Format | Line Style | Curve
+ in Menu Bar or Context Menu.
+You can also use 
+Style Editor
+ to line style.
+Set Auto Resize
+To set view elements always resize automatically:
+Select view elements in diagram.
+Press 
+Ctrl+Shift+R
+ or check (or uncheck) 
+Format | Auto Resize
+ in Menu Bar or Context Menu.
+You can also use 
+Style Editor
+ to line style.
+Set Word Wrap
+To allow text can be shown in multiple lines:
+Select view elements in diagram.
+Press 
+Ctrl+Shift+W
+ or check (or uncheck) 
+Format | Word Wrap
+ in Menu Bar or Context Menu.
+Stereotype Display
+An element has six alternative representations based on the stereotype. To change stereotype display:
+Select view elements in diagram.
+Press 
+Ctrl+Shift+0
+ ~ 
+Ctrl+Shift+5
+ or select 
+Format | Stereotype Display | [StereotypeDisplayKind]
+ in Menu Bar or Context Menu.
+Supported stereotype display kinds are follow:
+None (
+Ctrl+Shift+0
+) : Do not show stereotype.
+Label (
+Ctrl+Shift+1
+) : Show stereotype as a label.
+Decoration (
+Ctrl+Shift+2
+) : Show stereotype as a decorated icon on the top left.
+Decoration with Label (
+Ctrl+Shift+3
+) : Show stereotype as a label with a decorated icon.
+Icon (
+Ctrl+Shift+4
+) : Show element as a icon.
+Icon with Label (
+Ctrl+Shift+5
+) : Show element as a icon with label.
+Show Visibility
+To show (or hide) visibilities:
+Select view elements in diagram.
+Press 
+Ctrl+Shift+V
+ or check (or uncheck) 
+Format | Show Visibility
+ in Menu Bar or Context Menu.
+Show Namespace
+To show (or hide) namespace:
+Select view elements in diagram.
+Press 
+Ctrl+Shift+N
+ or check (or uncheck) 
+Format | Show Namespace
+ in Menu Bar or Context Menu.
+Show Property (Tag)
+To show (or hide) properties (tags):
+Select view elements in diagram.
+Press 
+Ctrl+Shift+P
+ or check (or uncheck) 
+Format | Show Property
+ in Menu Bar or Context Menu.
+Show Type
+To show (or hide) types:
+Select view elements in diagram.
+Press 
+Ctrl+Shift+Y
+ or check (or uncheck) 
+Format | Show Type
+ in Menu Bar or Context Menu.
+Show Multiplicity
+To show (or hide) multiplicities:
+Select view elements in diagram.
+Press 
+Ctrl+Shift+M
+ or check (or uncheck) 
+Format | Show Multiplicity
+ in Menu Bar or Context Menu.
+Show Operation Signature
+To show (or hide) operation signature:
+Select view elements in diagram.
+Press 
+Ctrl+Shift+G
+ or check (or uncheck) 
+Format | Show Operation Signature
+ in Menu Bar or Context Menu.
+Suppress Attributes
+To suppress attributes:
+Select view elements (e.g. Class) in diagram.
+Press 
+Ctrl+Shift+A
+ or check (or uncheck) 
+Format | Suppress Attributes
+ in Menu Bar or Context Menu.
+Suppress Operations
+To suppress operations:
+Select view elements (e.g. Class) in diagram.
+Press 
+Ctrl+Shift+O
+ or check (or uncheck) 
+Format | Suppress Operations
+ in Menu Bar or Context Menu.
+Suppress Receptions
+To suppress receptions:
+Select view elements (e.g. Class) in diagram.
+Press 
+Ctrl+Shift+E
+ or check (or uncheck) 
+Format | Suppress Receptions
+ in Menu Bar or Context Menu.
+Suppress Literals
+To suppress literals:
+Select Enumeration view elements in diagram.
+Press 
+Ctrl+Shift+T
+ or check (or uncheck) 
+Format | Suppress Literals
+ in Menu Bar or Context Menu.
+Suppress Columns
+To suppress columns:
+Select Entity view elements in diagram.
+Press 
+Ctrl+Shift+U
+ or check (or uncheck) 
+Format | Suppress Columns
+ in Menu Bar or Context Menu.
+Aligning View Elements
+To bring view elements on the front:
+Select view elements in diagram.
+Select 
+Format | Alignment | Bring to Front
+ in Menu Bar or 
+Alignment | Bring to Front
+ in Context Menu.
+Or, to send view elements to the back:
+Select view elements in diagram.
+Select 
+Format | Alignment | Send to Back
+ in Menu Bar or 
+Alignment | Send to Back
+ in Context Menu.
+And, you can align two or more view elements:
+Select view elements in diagram.
+Select 
+Format | Alignment | [AlignmentKind]
+ in Menu Bar or 
+Alignment | [AlignmentKind]
+ in Context Menu.
+Align Left : Align selected view elements to the left.
+Align Right : Align selected view elements to the right.
+Align Middle : Center selected view elements horizontally.
+Align Top : Align selected view elements to the top.
+Align Bottom : Align selected view elements to the bottom.
+Align Center : Center selected view elements vertically.
+Layout Diagram
+To layout diagram automatically:
+Open the diagram to be layout.
+Select 
+Format | Layout | Auto
+ in Menu Bar.
+If you want to layout diagram in a particular direction:
+Open the diagram to be layout.
+Select 
+Format | Layout | [Direction]
+ in Menu Bar. Supported directions are 
+Top to Bottom
+, 
+Bottom to Top
+, 
+Left to Right
+ and 
+Right to Left
+.
+Previous
+Editing Elements
+Next
+Annotation Elements
+Last updated 
+3 years ago
