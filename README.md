@@ -21,8 +21,6 @@ IS-P1-01/
 │   ├── IS-P1-2025.md                      # Especificación de la práctica
 │   ├── Requisitos_Software.md             # Requisitos funcionales y de dominio
 │   ├── Diseño_UML.md                      # Diseño UML completo del sistema
-│   ├── Guia_Implementacion_StarUML.md     # Guía paso a paso para StarUML
-│   └── Resumen_Diseño_Requisitos.md       # Matriz de trazabilidad y resumen
 ├── Documentacion_StarUML/                  # Documentación de la herramienta StarUML
 ├── README.md                               # Este archivo
 └── [Carpeta de diagramas UML - pendiente]
@@ -70,14 +68,6 @@ El diseño incluye los siguientes diagramas UML:
 
 Ver diseño completo en: [`Diseño_UML.md`](Documentacion_proyecto/Diseño_UML.md)
 
-## 🛠️ Patrones de Diseño Aplicados
-
-- **Strategy**: Para diferentes tipos de incidencias
-- **Observer**: Para sistema de notificaciones
-- **Repository**: Para abstracción de persistencia
-- **DTO**: Para transferencia de datos en la API
-- **Facade**: Para simplificar subsistemas complejos
-
 ## 🚀 Cómo Empezar
 
 ### Para Arquitectos Software
@@ -90,7 +80,6 @@ Ver diseño completo en: [`Diseño_UML.md`](Documentacion_proyecto/Diseño_UML.m
 
 1. Revisar los requisitos: [`Requisitos_Software.md`](Documentacion_proyecto/Requisitos_Software.md)
 2. Estudiar el diseño: [`Diseño_UML.md`](Documentacion_proyecto/Diseño_UML.md)
-3. Consultar la matriz de trazabilidad: [`Resumen_Diseño_Requisitos.md`](Documentacion_proyecto/Resumen_Diseño_Requisitos.md)
 
 ## 👥 Roles del Equipo
 
@@ -103,7 +92,6 @@ Según la metodología del proyecto:
 
 - **Especificación del proyecto**: [IS-P1-2025.md](Documentacion_proyecto/IS-P1-2025.md)
 - **Manual de StarUML**: [Carpeta Documentacion_StarUML](Documentacion_StarUML/)
-- **Resumen ejecutivo**: [Resumen_Diseño_Requisitos.md](Documentacion_proyecto/Resumen_Diseño_Requisitos.md)
 
 ## ✅ Estado del Proyecto
 
@@ -111,23 +99,12 @@ Según la metodología del proyecto:
 - [✓] Captura de requisitos de dominio
 - [✓] Diseño de arquitectura del sistema
 - [✓] Diagrama de clases completo
-- [✓] Diagrama de paquetes
-- [✓] Diagrama de despliegue
-- [✓] Diagrama de secuencia
 - [✓] Documentación de decisiones de diseño
-- [✓] Matriz de trazabilidad requisitos-diseño
 - [ ] Implementación en StarUML (en progreso)
 - [ ] Exportación de diagramas como imágenes
 - [ ] Memoria del proyecto
 
 ## 📝 Notas de Implementación
-
-### Tecnologías Sugeridas
-- **Backend**: Java 17+ con Spring Boot 3.x
-- **Frontend**: React/Vue.js con TypeScript
-- **Base de Datos**: PostgreSQL 15+
-- **Servidor Web**: Nginx o Apache
-- **Contenedores**: Docker + Docker Compose
 
 ### Principios Aplicados
 - ✓ Principios SOLID
@@ -147,6 +124,7 @@ Según la metodología del proyecto:
 ## 📧 Contacto
 
 Para consultas sobre este proyecto, contactar al jefe de proyecto del grupo.
+
 
 ---
 
