@@ -2,7 +2,7 @@
 
 Primer proyecto de Ingeniería del Software - Grupo 01
 
-## 📋 Descripción del Proyecto
+## Descripción del Proyecto
 
 Sistema de monitoreo inteligente para vías ferroviarias que detecta y predice incidencias mediante el análisis de señales eléctricas de dispositivos ubicados en las vías. El sistema permite:
 
@@ -13,7 +13,7 @@ Sistema de monitoreo inteligente para vías ferroviarias que detecta y predice i
 - Visualización gráfica de datos y incidencias
 - API REST para integración con otros sistemas
 
-## 📁 Estructura del Proyecto
+## Estructura del Proyecto
 
 ```
 IS-P1-01/
@@ -26,7 +26,7 @@ IS-P1-01/
 └── [Carpeta de diagramas UML - pendiente]
 ```
 
-## 🎯 Requisitos del Sistema
+## Requisitos del Sistema
 
 ### Requisitos Funcionales
 - **R.F.1-5**: Gestión de dispositivos y vías ferroviarias
@@ -40,7 +40,7 @@ IS-P1-01/
 
 Ver detalles completos en: [`Requisitos_Software.md`](Documentacion_proyecto/Requisitos_Software.md)
 
-## 🏗️ Arquitectura del Sistema
+## Arquitectura del Sistema
 
 El sistema está diseñado con una arquitectura en capas:
 
@@ -57,7 +57,7 @@ El sistema está diseñado con una arquitectura en capas:
 - **ServicesLayer**: Lógica de negocio
 - **PersistenceLayer**: Acceso a base de datos
 
-## 📐 Diagramas UML
+## Diagramas UML
 
 El diseño incluye los siguientes diagramas UML:
 
@@ -68,7 +68,7 @@ El diseño incluye los siguientes diagramas UML:
 
 Ver diseño completo en: [`Diseño_UML.md`](Documentacion_proyecto/Diseño_UML.md)
 
-## 🚀 Cómo Empezar
+## Cómo Empezar
 
 ### Para Arquitectos Software
 
@@ -81,19 +81,19 @@ Ver diseño completo en: [`Diseño_UML.md`](Documentacion_proyecto/Diseño_UML.m
 1. Revisar los requisitos: [`Requisitos_Software.md`](Documentacion_proyecto/Requisitos_Software.md)
 2. Estudiar el diseño: [`Diseño_UML.md`](Documentacion_proyecto/Diseño_UML.md)
 
-## 👥 Roles del Equipo
+## Roles del Equipo
 
 Según la metodología del proyecto:
 - **Analistas Software** (2 personas): Captura de requisitos
 - **Arquitectos Software** (2 personas): Diseño UML
 - **Jefe de Proyectos** (1 persona): Coordinación y metodología ágil
 
-## 📚 Documentación Adicional
+## Documentación Adicional
 
 - **Especificación del proyecto**: [IS-P1-2025.md](Documentacion_proyecto/IS-P1-2025.md)
 - **Manual de StarUML**: [Carpeta Documentacion_StarUML](Documentacion_StarUML/)
 
-## ✅ Estado del Proyecto
+## Estado del Proyecto
 
 - [✓] Captura de requisitos funcionales
 - [✓] Captura de requisitos de dominio
@@ -104,7 +104,7 @@ Según la metodología del proyecto:
 - [ ] Exportación de diagramas como imágenes
 - [ ] Memoria del proyecto
 
-## 📝 Notas de Implementación
+## Notas de Implementación
 
 ### Principios Aplicados
 - ✓ Principios SOLID
@@ -113,7 +113,7 @@ Según la metodología del proyecto:
 - ✓ Diseño orientado a interfaces
 - ✓ Extensibilidad y mantenibilidad
 
-## 📅 Calendario
+## Calendario
 
 - **Semana 1** (20/10): Análisis y captura de requisitos ✓
 - **Semana 2**: Diseño de arquitectura ✓
@@ -121,7 +121,7 @@ Según la metodología del proyecto:
 - **Semana 5**: Finalización de documentación
 - **Fecha límite**: 20/11 a las 20:00
 
-## 📧 Contacto
+## Contacto
 
 Para consultas sobre este proyecto, contactar al jefe de proyecto del grupo.
 
