@@ -66,15 +66,13 @@ El diseño incluye los siguientes diagramas UML:
 3. **Diagrama de Despliegue**: Infraestructura y nodos de ejecución
 4. **Diagrama de Secuencia**: Flujo de detección de incidencias
 
-Ver diseño completo en: [`Diseño_UML.md`](Documentacion_proyecto/Diseño_UML.md)
-
 ## Cómo Empezar
 
 ### Para Arquitectos Software
 
 1. Instalar StarUML: https://staruml.io/
 2. Leer la guía: [`Guia_Implementacion_StarUML.md`](Documentacion_proyecto/Guia_Implementacion_StarUML.md)
-3. Implementar los diagramas siguiendo el diseño: [`Diseño_UML.md`](Documentacion_proyecto/Diseño_UML.md)
+3. Implementar los diagramas siguiendo el diseño:
 
 ### Para Desarrolladores
 
