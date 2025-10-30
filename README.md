@@ -110,7 +110,6 @@ Según la metodología del proyecto:
 - ✓ Principios SOLID
 - ✓ Separación de responsabilidades
 - ✓ Alta cohesión, bajo acoplamiento
-- ✓ Diseño orientado a interfaces
 - ✓ Extensibilidad y mantenibilidad
 
 ## Calendario
