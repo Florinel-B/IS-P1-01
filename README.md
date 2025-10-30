@@ -95,14 +95,14 @@ Según la metodología del proyecto:
 
 ## Estado del Proyecto
 
-- [✓] Captura de requisitos funcionales
-- [✓] Captura de requisitos de dominio
-- [✓] Diseño de arquitectura del sistema
-- [✓] Diagrama de clases completo
-- [✓] Documentación de decisiones de diseño
-- [ ] Implementación en StarUML (en progreso)
-- [ ] Exportación de diagramas como imágenes
-- [ ] Memoria del proyecto
+- [] Captura de requisitos funcionales
+- [] Captura de requisitos de dominio
+- [] Diseño de arquitectura del sistema
+- [] Diagrama de clases completo
+- [] Documentación de decisiones de diseño
+- [] Implementación en StarUML (en progreso)
+- [] Exportación de diagramas como imágenes
+- [] Memoria del proyecto
 
 ## Notas de Implementación
 
