@@ -79,7 +79,6 @@ Ver diseño completo en: [`Diseño_UML.md`](Documentacion_proyecto/Diseño_UML.m
 ### Para Desarrolladores
 
 1. Revisar los requisitos: [`Requisitos_Software.md`](Documentacion_proyecto/Requisitos_Software.md)
-2. Estudiar el diseño: [`Diseño_UML.md`](Documentacion_proyecto/Diseño_UML.md)
 
 ## Roles del Equipo
 
