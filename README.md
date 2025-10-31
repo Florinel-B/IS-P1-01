@@ -68,7 +68,7 @@ El diseño incluye los siguientes diagramas UML:
 
 
 
-![image](Main.svg)
+![image](image.png)
 
 ## Cómo Empezar
 
