@@ -66,6 +66,10 @@ El diseño incluye los siguientes diagramas UML:
 3. **Diagrama de Despliegue**: Infraestructura y nodos de ejecución
 4. **Diagrama de Secuencia**: Flujo de detección de incidencias
 
+
+
+[image](Main.svg)
+
 ## Cómo Empezar
 
 ### Para Arquitectos Software
