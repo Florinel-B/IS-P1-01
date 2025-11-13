@@ -120,7 +120,7 @@ Según la metodología del proyecto:
 - **Semana 2**: Diseño de arquitectura ✓
 - **Semanas 3-4**: Refinamiento y documentación (en progreso)
 - **Semana 5**: Finalización de documentación
-- **Fecha límite**: 20/11 a las 20:00
+- **Fecha límite**: 24/11 a las 11:00
 
 ## Contacto
 
