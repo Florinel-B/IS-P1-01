@@ -1,4 +1,4 @@
-# IS-P1-01 - Sistema de Monitoreo de Vías Ferroviarias
+# IS-P1-G01 - Sistema de Monitoreo de Vías Ferroviarias
 
 Primer proyecto de Ingeniería del Software - Grupo 01
 
