@@ -84,7 +84,7 @@ Según la metodología del proyecto:
 
 ## Calendario
 
-- **Semana 1** (20/10): Análisis y captura de requisitos
+- **Semana 1** : Análisis y captura de requisitos
 - **Semana 2**: Diseño de arquitectura
 - **Semanas 3-4**: Refinamiento y documentación
 - **Semana 5**: Finalización de documentación
