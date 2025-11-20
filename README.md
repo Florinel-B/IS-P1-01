@@ -61,7 +61,7 @@ El sistema está diseñado con una arquitectura en capas:
 
 El diseño incluye los siguientes diagramas UML:
 
-![image](Main.png)
+![image](Main.jpg)
 
 ## Roles del Equipo
 
