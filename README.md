@@ -13,19 +13,6 @@ Sistema de monitoreo inteligente para vías ferroviarias que detecta y predice i
 - Visualización gráfica de datos y incidencias
 - API REST para integración con otros sistemas
 
-## Estructura del Proyecto
-
-```
-IS-P1-01/
-├── Documentacion_proyecto/
-│   ├── IS-P1-2025.md                      # Especificación de la práctica
-│   ├── Requisitos_Software.md             # Requisitos funcionales y de dominio
-│   ├── Diseño_UML.md                      # Diseño UML completo del sistema
-├── Documentacion_StarUML/                  # Documentación de la herramienta StarUML
-├── README.md                               # Este archivo
-└── [Carpeta de diagramas UML - pendiente]
-```
-
 ## Requisitos del Sistema
 
 ### Requisitos Funcionales
